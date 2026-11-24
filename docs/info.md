@@ -14,7 +14,7 @@ Explain how your project works
 ## How to test
 
 Explain how to use your project
-
+it displays the number 6
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
